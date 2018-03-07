@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/mabstractfactory" />
+            <option value="$PROJECT_DIR$/madapter" />
+            <option value="$PROJECT_DIR$/mbuilder" />
+            <option value="$PROJECT_DIR$/mdecorator" />
+            <option value="$PROJECT_DIR$/mfacade" />
+            <option value="$PROJECT_DIR$/mfactorymethod" />
+            <option value="$PROJECT_DIR$/mmemento" />
+            <option value="$PROJECT_DIR$/mprototype" />
+            <option value="$PROJECT_DIR$/mproxy" />
+            <option value="$PROJECT_DIR$/mstate" />
+            <option value="$PROJECT_DIR$/mstaticfactory" />
+            <option value="$PROJECT_DIR$/mstrategy" />
+            <option value="$PROJECT_DIR$/msubscribe" />
+            <option value="$PROJECT_DIR$/mtemplatemethod" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

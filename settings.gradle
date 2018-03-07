@@ -1,0 +1,1 @@
+include ':app', ':mstaticfactory', ':mstrategy', ':mdecorator', ':mproxy', ':mfactorymethod', ':mprototype', ':mtemplatemethod', ':mfacade', ':mbuilder', ':msubscribe', ':mabstractfactory', ':mstate', ':madapter', ':mmemento'

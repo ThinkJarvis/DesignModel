@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignModel.iml" filepath="$PROJECT_DIR$/DesignModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mabstractfactory/mabstractfactory.iml" filepath="$PROJECT_DIR$/mabstractfactory/mabstractfactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/madapter/madapter.iml" filepath="$PROJECT_DIR$/madapter/madapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mbuilder/mbuilder.iml" filepath="$PROJECT_DIR$/mbuilder/mbuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mdecorator/mdecorator.iml" filepath="$PROJECT_DIR$/mdecorator/mdecorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mfacade/mfacade.iml" filepath="$PROJECT_DIR$/mfacade/mfacade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mfactorymethod/mfactorymethod.iml" filepath="$PROJECT_DIR$/mfactorymethod/mfactorymethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mmemento/mmemento.iml" filepath="$PROJECT_DIR$/mmemento/mmemento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mprototype/mprototype.iml" filepath="$PROJECT_DIR$/mprototype/mprototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mproxy/mproxy.iml" filepath="$PROJECT_DIR$/mproxy/mproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mstate/mstate.iml" filepath="$PROJECT_DIR$/mstate/mstate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mstaticfactory/mstaticfactory.iml" filepath="$PROJECT_DIR$/mstaticfactory/mstaticfactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mstrategy/mstrategy.iml" filepath="$PROJECT_DIR$/mstrategy/mstrategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msubscribe/msubscribe.iml" filepath="$PROJECT_DIR$/msubscribe/msubscribe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mtemplatemethod/mtemplatemethod.iml" filepath="$PROJECT_DIR$/mtemplatemethod/mtemplatemethod.iml" />
+    </modules>
+  </component>
+</project>
